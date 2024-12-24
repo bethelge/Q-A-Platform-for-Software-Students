@@ -11,12 +11,12 @@ Connect, learn, and excel in software development!
 
 ## Group Members
 
-|  Name               |  ID             |
-|---------------------|-----------------|
-| Bemenet Bisrat      | UGR/1559/15     |
-| Bethel Gelan        | UGR/5776/15     |
-| Ephrata Wolde       | UGR/1245/15     |
-| Meklit Workineh     | UGR/3445/15     |
-| Metaniya Shiferaw   | UGR/8633/15     |
+|  Name               |  ID             | Section |
+|---------------------|-----------------|---------|
+| Bemenet Bisrat      | UGR/1559/15     |    4    |
+| Bethel Gelan        | UGR/5776/15     |    3    |
+| Ephrata Wolde       | UGR/1245/15     |    3    |
+| Meklit Workineh     | UGR/3445/15     |    3    |
+| Metaniya Shiferaw   | UGR/8633/15     |    2    |
 
 
